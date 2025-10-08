@@ -7,9 +7,10 @@ To use:
 install python
 
 (Windows:  
+In admin-priv powershell, run the following commands:  
 winget search Python.Python  
 winget install Python.Python.x.x)  
-run "python path/to/file"  
+python path/to/file    
 ???  
 profit!!!  
 
