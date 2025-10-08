@@ -1,4 +1,4 @@
-# bambiSpirals
+# asciiSpirals
 
 To use:
 
