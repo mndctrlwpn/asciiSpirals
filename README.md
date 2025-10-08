@@ -6,11 +6,10 @@ To use:
 
 install python
 
-(Windows:  
-In admin-priv powershell, run the following commands:  
+Windows: (In admin-priv powershell, run the following commands:)  
 winget search Python.Python  
-winget install Python.Python.x.x)  
-python path/to/file    
+winget install Python.Python.x.x  
+python path/to/file  
 ???  
 profit!!!  
 
