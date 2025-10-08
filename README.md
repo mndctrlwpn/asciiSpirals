@@ -2,8 +2,8 @@
 
 NOTE: Currently, this is a VERY rough draft, more of a proof of concept, of an ascii spiral application which is meant to be a testbed for a much larger spiral-generating app. Before that though, I do plan on finishing the ascii version, since ascii spirals in terminals are something I've been dreaming about for awhile.  
 
-To use:
-
+To use:  
+Linux:  
 install python  
 run file with python or python3 command, depending on your distro's repository  
 
