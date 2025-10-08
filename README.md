@@ -4,7 +4,8 @@ NOTE: Currently, this is a VERY rough draft, more of a proof of concept, of an a
 
 To use:
 
-install python
+install python  
+run file with python or python3 command, depending on your distro's repository  
 
 Windows: (In admin-priv powershell, run the following commands:)  
 winget search Python.Python  
