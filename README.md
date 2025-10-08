@@ -16,4 +16,4 @@ run "python path/to/file"
 
 profit!!!
 
-https://github.com/mndctrlwpn/asciiSpirals/raw/refs/heads/main/2025-10-08%2001-12-47.mp4
+https://raw.githubusercontent.com/mndctrlwpn/asciiSpirals/2025-10-08 01-12-47.mp4
