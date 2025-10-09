@@ -23,4 +23,6 @@ TODO:
 -add feature for reactivity to keyboard strokes  
 -combine into a single file with options -like -dis  
 
-[![Alt text](https://i3.ytimg.com/vi/k3DLQxfLdew/hqdefault.jpg)](https://www.youtube.com/watch?v=k3DLQxfLdew)
+Video example:  
+
+[![Example video](https://i3.ytimg.com/vi/k3DLQxfLdew/hqdefault.jpg)](https://www.youtube.com/watch?v=k3DLQxfLdew)
