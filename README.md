@@ -9,7 +9,7 @@ run file with python or python3 command, depending on your distro's repository
 
 Windows: (In admin-priv powershell, run the following commands:)  
 winget search Python.Python  
-winget install Python.Python.3.x (or just Python.Python)
+winget install Python.Python.3.x (or just Python.Python)  
 python path/to/file  
 ???  
 profit!!!  
