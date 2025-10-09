@@ -15,7 +15,7 @@ python path/to/file
 profit!!!  
 
 Known issues:  
--For specific animations, some terminal applications stutter while clearing the screen for the next animation frame. Namely spiral4-6 and milky. Includes default Windows 11 powershell and and xfce4-terminal. Works flawlessly on kitty.
+-For specific animations, some terminal applications stutter while clearing the screen for the next animation frame. Namely spiral4-6 and milky. Includes default Windows 11 powershell and xfce4-terminal. Works flawlessly on kitty.
 
 TODO:  
 -refine animations, fill screen, etc  
